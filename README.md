@@ -98,7 +98,4 @@ We owe much to the mentorship of Professor Waxman, who ran the Stern Natural Lan
 
 Features used in training the NER were based off of features described in (Ben Mordecai and Elhadad, 2005)
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
