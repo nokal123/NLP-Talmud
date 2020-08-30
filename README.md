@@ -92,8 +92,6 @@ This is a work in progress project, therefore no final version was ever fully de
 * **Adina Bruce** - [adinabruce](https://github.com/adinabruce)
 * **Noah Kalandar** - [noahkalandar](https://github.com/nokal123)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 
 ## Acknowledgments
 We owe much to the mentorship of Professor Waxman, who ran the Stern Natural Language Processing Lab, through which we were able to create our project. Some of his code was used within our project (include specific). He provided constant support and was always available to answer any of our questions. 
