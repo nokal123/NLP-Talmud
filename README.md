@@ -94,7 +94,7 @@ This is a work in progress project, therefore no final version was ever fully de
 
 
 ## Acknowledgments
-We owe much to the mentorship of Professor Waxman, who ran the Stern Natural Language Processing Lab, through which we were able to create our project. Some of his code was used within our project (include specific). He provided constant support and was always available to answer any of our questions. 
+We owe much to the mentorship of Professor Waxman, who ran the Stern Natural Language Processing Lab, through which we were able to create our project. Some of his code was used within our project. He provided constant support and was always available to answer any of our questions. 
 
 Features used in training the NER were based off of features described in (Ben Mordecai and Elhadad, 2005)
 
