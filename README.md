@@ -7,7 +7,7 @@ For both parts of the project, NLP tools to analyze the Talmud, specifically thr
 
 These instructions will assume a basic understanding of how to clone a repository to a local machine and how to download relevant packages  
 
-First, clone the repository to your local machine 
+First, clone the repository to your local machine. Both files Berakhot.txt.zip and Berakhot.tsv.zip in Sentence Tagging ML Model must be unzipped before any code can be executed.
 
 The packages that are needed for this project are: 
 - Python
@@ -73,8 +73,8 @@ Code within named MLTaggingAlgo.py can be used to run classifier module tests.
 - The NER only tagged words incorrectly 7% of the time.
 
 #### Sentence Tagging ML Model
-- The accuracy found using the nltk.classify.MaxentClassifier module is 0.462 on the training set
-- The accuracy found using the nltk.classify.MaxentClassifier module is 0.38 on the testing set
+- The accuracy found using the nltk.classify.MaxentClassifier module is 46.2% on the training set
+- The accuracy found using the nltk.classify.MaxentClassifier module is 38% on the testing set
 - Relevant features and incorrect guesses are printed along with the percent accuracy. 
 
 
